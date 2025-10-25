@@ -11,5 +11,6 @@ int main() {
     cin >> name;
     cout << "hi" << name << endl;
     say_hello();
+    cout << "hi";
     return 0;
 }
